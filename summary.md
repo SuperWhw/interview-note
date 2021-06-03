@@ -240,13 +240,13 @@ SVM是二类分类模型，基本模型是在特征空间上的间隔最大的�
 
 - 知识框架：
 
-<img src="/Users/superwhw/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/aeea73634b300082a9957e90621a3e83/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/Image/141621588571_.pic_hd.jpg" alt="141621588571_.pic_hd" style="zoom:20%;" />
+<img src="./pic/141621588571_.pic_hd.jpg" alt="141621588571_.pic_hd" style="zoom:20%;" />
 
 
 
 - 发展时间线：
 
-<img src="/Users/superwhw/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/aeea73634b300082a9957e90621a3e83/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/Image/151621588572_.pic_hd.jpg" alt="151621588572_.pic_hd" style="zoom:30%;" />
+<img src="./pic/151621588572_.pic_hd.jpg" alt="151621588572_.pic_hd" style="zoom:30%;" />
 
 
 
@@ -429,7 +429,7 @@ $$
 $$
 用 $w_t$ 预测 $w_{t+j}$，但二者的向量表达并不在一个向量空间内
 
-<img src="C:\Users\SUPERW~1\AppData\Local\Temp\WeChat Files\c285510a5f0a07438eac53558ceca7b.jpg" alt="c285510a5f0a07438eac53558ceca7b" style="zoom:40%;" />
+<img src="./pic/71621065376_.pic_hd.jpg" alt="71621065376_.pic_hd" style="zoom:40%;" />
 
 输入向量矩阵 $W_{V*N}$，每一行对应的权重向量即词向量。
 
@@ -589,7 +589,7 @@ PMML（预测模型标记语言）转换部署模型
 
 动态离线评估 - Replay：重点是让离线评估的结果能够尽量接近线上结果
 
-<img src="/Users/superwhw/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/aeea73634b300082a9957e90621a3e83/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/Image/111621393732_.pic_hd.jpg" alt="111621393732_.pic_hd" style="zoom:20%;" />
+<img src="./pic/111621393732_.pic_hd.jpg" alt="111621393732_.pic_hd" style="zoom:20%;" />
 
 ### 2. 线上测试
 
